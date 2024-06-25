@@ -1,4 +1,4 @@
-Assignments for Sigrid training 2022 
+Assignments for Sigrid training 2024 
 ==========
 This repository is part of the Sigrid training.<br />
 You will need access to Sigrid to complete this training.<br />
@@ -21,7 +21,7 @@ Training preparation
 
 * Use this repository as a template by clicking on the green "**Use this template**" button.
 
-[<img width="160" alt="image" src="https://user-images.githubusercontent.com/6178160/196057620-5d0acafb-b2a9-47fe-bae8-a67f7146c15f.png">](https://github.com/clean-code-workshop/sigrid-training-2022/generate)
+[<img width="160" alt="image" src="https://user-images.githubusercontent.com/6178160/196057620-5d0acafb-b2a9-47fe-bae8-a67f7146c15f.png">](https://github.com/clean-code-workshop/sigrid-training-2024/generate)
 
 
 * Change the **Owner** to '**clean-code-workshop**'
@@ -31,7 +31,7 @@ Training preparation
 * Choose **Public** repository.
 
 Congratulations, your repository will be analysed by Sigrid and will appear soon in the dashboard.<br />
-Visit https://sigrid-says.com/sigrid2022 and log in with your Sigrid account.
+Visit https://sigrid-says.com/sigridworkshop and log in with your Sigrid account.
 
 If you don't have a Sigrid account yet, please ask your teacher to create one for you.
 
