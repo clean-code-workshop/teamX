@@ -11,7 +11,7 @@ The training examples are code snippets from the book Building Maintainable Soft
 The edition used for these examples is:<br />
 The Java edition (ISBN print: 978-1-4919-5352-5, ISBN eBook: 978-1-4919-5348-8), available at the O'Reilly webshop and at Amazon.
 
-The [GitHub](https://github.com/oreillymedia/building_maintainable_software) page contains all snippets
+The [GitHub](https://github.com/oreillymedia/building_maintainable_software) page contains all snippets.
 
 
 Training preparation
