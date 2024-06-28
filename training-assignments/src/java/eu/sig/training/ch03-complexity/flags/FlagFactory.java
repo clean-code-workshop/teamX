@@ -28,6 +28,9 @@ public class FlagFactory {
         case ITALIAN:
             result = Arrays.asList(Color.GREEN, Color.WHITE, Color.RED);
             break;
+        case ITALIAN2:
+            result = Arrays.asList(Color.GREEN, Color.WHITE, Color.RED);
+            break;
         case ROMANIA:
             result = Arrays.asList(Color.BLUE, Color.YELLOW, Color.RED);
             break;
